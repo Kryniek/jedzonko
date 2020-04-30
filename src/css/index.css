@@ -1,0 +1,23 @@
+body {
+  background-color: gainsboro;
+}
+
+.card {
+  width: 28rem;
+}
+
+.cardImg {
+  height: 14rem;
+}
+
+.green {
+  color: #28a745;
+}
+
+.yellow {
+  color: #ffc107;
+}
+
+.red {
+  color: #dc3545;
+}
