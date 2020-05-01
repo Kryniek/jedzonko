@@ -100,5 +100,19 @@ function getCards() {
             "5g pestki dyni",
             "15g słonecznika"
         ]
+    }, {
+        imgSrc: "8.jpg",
+        title: "Ryżanka ze skyrem i lodami",
+        tutorial: "",
+        kcal: 580,
+        kind: 0,
+        products: [
+            "200g melon",
+            "1 skyr",
+            "50g ryżu",
+            "100ml lodów Manhattan pomarańczowych",
+            "15g żurawiny suszonej",
+            "15g prażonych orzechów laskowych"
+        ]
     }];
 };
