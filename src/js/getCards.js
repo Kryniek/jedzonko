@@ -1,7 +1,7 @@
 function getCards() {
     return [{
         imgSrc: "1.png",
-        title: "Omlet z serka wiejskiego",
+        title: "Owsiany omlet z serka wiejskiego",
         tutorial: "https://youtu.be/W0zEPbx1wvI?t=59",
         kcal: 663,
         kind: 0,
@@ -113,6 +113,71 @@ function getCards() {
             "100ml lodów Manhattan pomarańczowych",
             "15g żurawiny suszonej",
             "15g prażonych orzechów laskowych"
+        ]
+    }, {
+        imgSrc: "9.jpg",
+        title: "Nitki z indykiem",
+        tutorial: "",
+        kcal: 451,
+        kind: 1,
+        products: [
+            "50g makaron nitki",
+            "50g pomidorki koktajlowe",
+            "pół papryki",
+            "ćwierć cebuli",
+            "50g brokuł",
+            "120g indyka",
+            "2 łyżeczki oliwy z oliwek",
+            "1 łyżka koncentratu pomidorowego",
+            "Przyprawy do indyka: słodka papryka, pieprz ziołowy, sól"
+        ]
+    }, {
+        imgSrc: "10.jpg",
+        title: "Nitki z parówkami sojowymi",
+        tutorial: "",
+        kcal: 464,
+        kind: 1,
+        products: [
+            "50g makaron nitki",
+            "50g pomidorki koktajlowe",
+            "pół papryki",
+            "ćwierć cebuli",
+            "50g brokuł",
+            "100g parówek sojowych",
+            "2 łyżeczki oliwy z oliwek",
+            "1 łyżka koncentratu pomidorowego",
+            "Przyprawy do parówki: słodka papryka, pieprz ziołowy, sól"
+        ]
+    }, {
+        imgSrc: "11.jpg",
+        title: "Owsiany omlet z serka wiejskiego z brzoskwinią",
+        tutorial: "https://youtu.be/rlZxx8dyg0c?t=104",
+        kcal: 709,
+        kind: 0,
+        products: [
+            "150g serka wiejskiego",
+            "2 jajka",
+            "1 łyżeczka oliwy z oliwek na patelnie",
+            "30g borówki",
+            "1 nektarynka",
+            "1 banan",
+            "60g mąki"
+        ]
+    }, {
+        imgSrc: "12.jpg",
+        title: "Omlet z jogurtu naturalnego i mleczka kokosowego",
+        tutorial: "https://youtu.be/rlZxx8dyg0c?t=104",
+        kcal: 494,
+        kind: 0,
+        products: [
+            "45ml jogurtu naturalnego (3 łyżki stołowe)",
+            "30ml mleczka kokosowego (2 łyżki stołowe)",
+            "1 jajko",
+            "1 łyżeczka oliwy z oliwek na patelnie",
+            "30g borówki",
+            "1 jabłko",
+            "1 banan",
+            "40g mąki"
         ]
     }];
 };
