@@ -179,5 +179,16 @@ function getCards() {
             "1 banan",
             "40g mąki"
         ]
+    }, {
+        imgSrc: "13.jpg",
+        title: "Pierożki Gyoza",
+        tutorial: "",
+        kcal: 332,
+        kind: 1,
+        products: [
+            "Gotowe pierożki gyoza z warzywami lub kurczakiem (Lidl)",
+            "65g pomidorków koktajlowych",
+            "sos sojowy"
+        ]
     }];
 };
