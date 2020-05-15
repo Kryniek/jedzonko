@@ -209,5 +209,24 @@ function getCards() {
             "15g prażonych orzechów laskowych",
             "1 pasek czekolady"
         ]
+    }, {
+        imgSrc: "15.jpg",
+        title: "Czekolada z owocami skąpanymi w jogurcie naturalnym",
+        tutorial: "",
+        kcal: 547,
+        kind: 0,
+        products: [
+            "200g jogurtu naturalnego",
+            "100ml lodów Manhattan jagodowych",
+            "1 banan",
+            "pół jabłka",
+            "1 kiwi",
+            "30g malin",
+            "30g jagód",
+            "10g rodzynków",
+            "10g żurawiny suszonej",
+            "5g prażonych orzechów laskowych",
+            "1 kostka czekolady"
+        ]
     }];
 };
