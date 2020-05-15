@@ -150,7 +150,7 @@ function getCards() {
         ]
     }, {
         imgSrc: "11.jpg",
-        title: "Owsiany omlet z serka wiejskiego z brzoskwinią",
+        title: "Omlet z serka wiejskiego z brzoskwinią",
         tutorial: "https://youtu.be/rlZxx8dyg0c?t=104",
         kcal: 709,
         kind: 0,
@@ -189,6 +189,25 @@ function getCards() {
             "Gotowe pierożki gyoza z warzywami lub kurczakiem (Lidl)",
             "65g pomidorków koktajlowych",
             "sos sojowy"
+        ]
+    }, {
+        imgSrc: "14.jpg",
+        title: "Czekolada z owocami skąpanymi w serku wiejskim",
+        tutorial: "",
+        kcal: 769,
+        kind: 0,
+        products: [
+            "150g serka wiejskiego",
+            "100ml lodów Manhattan jagodowych",
+            "1 banan",
+            "1 jabłko",
+            "1 nektarynka",
+            "30g malin",
+            "30g jagód",
+            "10g rodzynków",
+            "10g żurawiny suszonej",
+            "15g prażonych orzechów laskowych",
+            "1 pasek czekolady"
         ]
     }];
 };
