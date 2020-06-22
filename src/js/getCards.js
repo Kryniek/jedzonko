@@ -228,5 +228,18 @@ function getCards() {
             "5g prażonych orzechów laskowych",
             "1 kostka czekolady"
         ]
+    }, {
+        imgSrc: "16.jpg",
+        title: "Sałatka z kluskami lanymi",
+        tutorial: "",
+        kcal: 344,
+        kind: 1,
+        products: [
+            "125g Kluski lane (Spatzle Lidl)",
+            "200g papryki",
+            "50g ogórka",
+            "150g pomidorów",
+            "1,5 łyżeczki oliwy z oliwek"
+        ]
     }];
 };
