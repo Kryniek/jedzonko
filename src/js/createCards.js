@@ -42,6 +42,28 @@
         cardBodyH5.setAttribute("class", "card-title");
         cardBodyH5.textContent = card.title + " ";
 
+        let cardBodyText;
+        let tags = card.tags;
+        if (tags && tags.length > 0) {
+            cardBodyText = document.createElement("P");
+            cardBodyText.setAttribute("class", "card-text");
+
+            let parsedTags = [];
+            tags.forEach(tag => {
+                if (tag == 0) {
+                    parsedTags.push("Śniadanie");
+                } else if (tag == 1) {
+                    parsedTags.push("Obiad");
+                } else if (tag == 2) {
+                    parsedTags.push("Kolacje");
+                } else if (tag == 3) {
+                    parsedTags.push("Przekąske");
+                }
+            });
+
+            cardBodyText.textContent = "Dobre na: " + parsedTags.join(', ');
+        }
+
         let cardBodyButton = document.createElement("BUTTON");
         cardBodyButton.setAttribute("type", "button");
         cardBodyButton.setAttribute("class", "btn btn-outline-" + color);
@@ -57,6 +79,11 @@
         cardDiv.appendChild(cardBodyDiv);
         cardBodyH5.appendChild(getKindIcon(card.kind, color));
         cardBodyDiv.appendChild(cardBodyH5);
+
+        if (cardBodyText) {
+            cardBodyDiv.appendChild(cardBodyText);
+        }
+
         cardBodyDiv.appendChild(cardBodyButton);
         cardDiv.appendChild(cardFooterDiv);
         colDiv.appendChild(cardDiv);
@@ -141,12 +168,12 @@
         modalFooterDiv.setAttribute("class", "modal-footer");
 
         let modalFooterAClass = "btn btn-block btn-" + color;
-        let modalFooterATextContent = "Otwórz video tutorial";
+        let modalFooterATextContent = "Otwórz przepis";
         let isModalFooterAEnabled = !!card.tutorial && card.tutorial != "";
 
         if (!isModalFooterAEnabled) {
             modalFooterAClass += " disabled";
-            modalFooterATextContent = "Brak video tutoriala";
+            modalFooterATextContent = "Brak przepisu";
         }
 
         let modalFooterA = document.createElement("A");
