@@ -6,6 +6,7 @@ function getCards() {
         kcal: 663,
         kind: 0,
         tags: [1],
+        servingsNumber: 1,
         products: [
             "100-150g serka wiejskiego",
             "2 jajka",
@@ -21,6 +22,7 @@ function getCards() {
         kcal: 443,
         kind: 0,
         tags: [0, 2],
+        servingsNumber: 1,
         products: [
             "50g ryżu białego",
             "1 jabłko",
@@ -36,6 +38,7 @@ function getCards() {
         kcal: 478,
         kind: 1,
         tags: [1],
+        servingsNumber: 1,
         products: [
             "300g ziemniaków",
             "łyżeczka oliwy z oliwek",
@@ -53,6 +56,7 @@ function getCards() {
         kcal: 632,
         kind: 1,
         tags: [1],
+        servingsNumber: 1,
         products: [
             "100g makaronu penne",
             "5 pieczarek lub 3/4 papryki",
@@ -69,6 +73,7 @@ function getCards() {
         kcal: 368,
         kind: 1,
         tags: [1],
+        servingsNumber: 1,
         products: [
             "140g szparagi",
             "66g pieczarek",
@@ -85,6 +90,7 @@ function getCards() {
         kcal: 389,
         kind: 1,
         tags: [1],
+        servingsNumber: 1,
         products: [
             "2 łyżki koncentratu pomidorowego",
             "90g tofu",
@@ -100,6 +106,7 @@ function getCards() {
         kcal: 308,
         kind: 1,
         tags: [1],
+        servingsNumber: 1,
         products: [
             "50g makaronu penne",
             "1 łyżka koncentratu pomidorowego",
@@ -114,6 +121,7 @@ function getCards() {
         kcal: 580,
         kind: 0,
         tags: [0, 2],
+        servingsNumber: 1,
         products: [
             "200g melon",
             "1 skyr",
@@ -129,6 +137,7 @@ function getCards() {
         kcal: 451,
         kind: 1,
         tags: [1],
+        servingsNumber: 1,
         products: [
             "50g makaron nitki",
             "50g pomidorki koktajlowe",
@@ -147,6 +156,7 @@ function getCards() {
         kcal: 464,
         kind: 1,
         tags: [1],
+        servingsNumber: 1,
         products: [
             "50g makaron nitki",
             "50g pomidorki koktajlowe",
@@ -165,6 +175,7 @@ function getCards() {
         kcal: 709,
         kind: 0,
         tags: [1, 2],
+        servingsNumber: 1,
         products: [
             "150g serka wiejskiego",
             "2 jajka",
@@ -181,6 +192,7 @@ function getCards() {
         kcal: 494,
         kind: 0,
         tags: [1, 2],
+        servingsNumber: 1,
         products: [
             "45ml jogurtu naturalnego (3 łyżki stołowe)",
             "30ml mleczka kokosowego (2 łyżki stołowe)",
@@ -198,6 +210,7 @@ function getCards() {
         kcal: 332,
         kind: 1,
         tags: [1],
+        servingsNumber: 1,
         products: [
             "Gotowe pierożki gyoza z warzywami lub kurczakiem (Lidl)",
             "65g pomidorków koktajlowych",
@@ -210,6 +223,7 @@ function getCards() {
         kcal: 769,
         kind: 0,
         tags: [0, 2],
+        servingsNumber: 1,
         products: [
             "150g serka wiejskiego",
             "100ml lodów Manhattan jagodowych",
@@ -230,6 +244,7 @@ function getCards() {
         kcal: 547,
         kind: 0,
         tags: [0, 2],
+        servingsNumber: 1,
         products: [
             "200g jogurtu naturalnego",
             "100ml lodów Manhattan jagodowych",
@@ -250,12 +265,13 @@ function getCards() {
         kcal: 344,
         kind: 1,
         tags: [1],
+        servingsNumber: 2,
         products: [
-            "125g Kluski lane (Spatzle Lidl)",
-            "200g papryki",
-            "50g ogórka",
-            "150g pomidorów",
-            "1,5 łyżeczki oliwy z oliwek"
+            "250g Kluski lane (Spatzle Lidl)",
+            "400g papryki",
+            "100g ogórka",
+            "300g pomidorów",
+            "3 łyżeczki oliwy z oliwek"
         ]
     }, {
         imgSrc: "17.jpg",
@@ -264,15 +280,16 @@ function getCards() {
         kcal: 169,
         kind: 1,
         tags: [3],
+        servingsNumber: 2,
         products: [
-            "50g szpinaku",
-            "0,5 banana",
-            "0.5 kiwi",
-            "0.5 łyżki stołowej mięty",
-            "0.25 cytryny",
-            "0.5 gruszki",
-            "0.5 łyżki stołowej nasion siemienia lnianego",
-            "100ml wody"
+            "100g szpinaku",
+            "1 banan",
+            "1 kiwi",
+            "1 łyżka stołowa mięty",
+            "0.5 cytryny",
+            "1 gruszka",
+            "1 łyżka stołowa nasion siemienia lnianego",
+            "200ml wody"
         ]
     }, {
         imgSrc: "18.jpg",
@@ -281,6 +298,7 @@ function getCards() {
         kcal: 505,
         kind: 0,
         tags: [0, 2],
+        servingsNumber: 1,
         products: [
             "200g jogurtu naturalnego",
             "2 łyżki stołowe nasion chia",
@@ -295,16 +313,58 @@ function getCards() {
         kcal: 476,
         kind: 1,
         tags: [1],
+        servingsNumber: 4,
         products: [
-            "0.5 papryki",
-            "125g szpinaku",
-            "0.25 cebuli",
-            "0.75 łyżki stołowej sosu sojowego",
-            "0.75 ząbku czosnku",
-            "20g tartego sera",
-            "40g kukurydzy",
-            "20g pomidorków koktajlowych",
-            "75g makaronu"
+            "2 papryki",
+            "500g szpinaku",
+            "1 cebula",
+            "3 łyżki stołowe sosu sojowego",
+            "3 ząbki czosnku",
+            "80g tartego sera",
+            "160g kukurydzy",
+            "80g pomidorków koktajlowych",
+            "300g makaronu"
+        ]
+    }, {
+        imgSrc: "20.jpg",
+        title: "Penne z cukinią",
+        tutorial: "",
+        kcal: 336,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 4,
+        products: [
+            "300g makaronu penne",
+            "1 cukinia",
+            "300g pomidorków koktajlowych",
+            "2 puszki ciecierzycy",
+            "3 ząbki czosnku",
+            "3 łyżki posiekanej bazylii",
+            "sól",
+            "pieprz",
+            "3 łyżki wody",
+            "kilka listków bazylii nieposiekanej"
+        ]
+    }, {
+        imgSrc: "21.jpg",
+        title: "Ryż zapiekany z jabłkami",
+        tutorial: "https://www.makroprzepisy.pl/przepisy/mamagrande/ryz-zapiekany-z-jablkami",
+        kcal: 488,
+        kind: 0,
+        tags: [1, 2],
+        servingsNumber: 4,
+        products: [
+            "600g mleka",
+            "15 g masła",
+            "1 szczypta soli",
+            "200 g ryżu białego",
+            "15 g cukru wanilinowego",
+            "800 g jabłek",
+            "1 łyżka soku z cytryny",
+            "1 łyżka cukru trzcinowego",
+            "1 łyżeczka cynamonu mielonego",
+            "200g jogurtu naturalnego",
+            "20 g cukru pudru"
         ]
     }];
 };

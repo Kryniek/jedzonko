@@ -71,9 +71,17 @@
         cardBodyButton.setAttribute("data-target", "#modal" + modalId);
         cardBodyButton.textContent = "Przepis";
 
+        let cardFooterText = "Porcja ma " + card.kcal + " kcal, przepis na " + card.servingsNumber + " ";
+
+        if (card.servingsNumber >= 1 && card.servingsNumber <= 4) {
+            cardFooterText += "porcje";
+        } else if (card.servingsNumber > 5) {
+            cardFooterText += "porcji";
+        }
+
         let cardFooterDiv = document.createElement("DIV");
         cardFooterDiv.setAttribute("class", "card-footer bg-" + color + " text-white");
-        cardFooterDiv.textContent = card.kcal + " kcal";
+        cardFooterDiv.textContent = cardFooterText;
 
         cardDiv.appendChild(imgDiv);
         cardDiv.appendChild(cardBodyDiv);
