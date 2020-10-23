@@ -366,5 +366,52 @@ function getCards() {
             "200g jogurtu naturalnego",
             "20 g cukru pudru"
         ]
+    }, {
+        imgSrc: "22.jpg",
+        title: "Spód do pizzy kalafiorowej",
+        tutorial: "https://www.fitczarodziejka.pl/przepis/zdrowa-pizza-kalafiorowa",
+        kcal: 171,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 2,
+        products: [
+            "1 kalafior pokrojony na małe różyczki",
+            "1 jajko",
+            "50g startego sera",
+            "pół łyżeczki soli morskiej",
+            "pół łyżeczki suszonego oregano",
+            "pół łyżeczki mielonego czarnego pieprzu"
+        ]
+    }, {
+        imgSrc: "23.jpg",
+        title: "Krem cytrynowy",
+        tutorial: "https://www.fitczarodziejka.pl/przepis/zdrowy-krem-cytrynowy-bez-masla",
+        kcal: 133,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 4,
+        products: [
+            "4 żółtka jajek",
+            "sok z 3 cytryn",
+            "1 łyżeczka startej skórki z cytryny",
+            "2 łyżki skrobia kukurydziana",
+            "3 łyżki miodu",
+            "pół szklanki wody"
+        ]
+    }, {
+        imgSrc: "24.jpg",
+        title: "Kapusta z sosem pomarańczowym",
+        tutorial: "",
+        kcal: 300,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 2,
+        products: [
+            "1kg kapusty",
+            "Sos Winiary Pomysł na makaron z pomarańczowymi warzywami",
+            "200ml wody",
+            "200g jogurtu naturalnego",
+            "100g makaronu"
+        ]
     }];
 };
