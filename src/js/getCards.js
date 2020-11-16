@@ -413,5 +413,38 @@ function getCards() {
             "200g jogurtu naturalnego",
             "100g makaronu"
         ]
+    }, {
+        imgSrc: "25.jpg",
+        title: "Omlet z pomidorem i bazylią",
+        tutorial: "https://zdrowe-odzywianie-przepisy.blogspot.com/2014/07/omlet-z-pomidorem-i-bazylia.html",
+        kcal: 394,
+        kind: 1,
+        tags: [0, 1, 2],
+        servingsNumber: 1,
+        products: [
+            "4 jajka",
+            "1 pomidor",
+            "Kilka listków bazylli",
+            "Przyprawy: sól, pieprz"
+        ]
+    }, {
+        imgSrc: "26.jpg",
+        title: "Sałatka z roszponki, mini mozzarelli i pomidorków",
+        tutorial: "https://www.makroprzepisy.pl/przepisy/mamagrande/salatka-z-roszponki-mini-mozzarelli-i-pomidorkow",
+        kcal: 258,
+        kind: 1,
+        tags: [0, 2],
+        servingsNumber: 2,
+        products: [
+            "50g roszponki",
+            "75g pomidorów truskawkowych",
+            "125g mini mozzarelli",
+            "10g słonecznika łuskanego",
+            "5g szczypiorku",
+            "1 łyżka oliwy",
+            "1 łyżka soku z cytryny",
+            "0,5 łyżki miodu wielokwiatowego",
+            "Przyprawy: sól, pieprz, czosnek granulowany"
+        ]
     }];
 };
