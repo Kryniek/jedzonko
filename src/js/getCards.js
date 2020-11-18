@@ -446,5 +446,22 @@ function getCards() {
             "0,5 łyżki miodu wielokwiatowego",
             "Przyprawy: sól, pieprz, czosnek granulowany"
         ]
+    }, {
+        imgSrc: "27.jpg",
+        title: "Bułki z pastą serowo-ziołową",
+        tutorial: "./src/img/tutorial/27.jpg",
+        kcal: 481,
+        kind: 1,
+        tags: [1, 2],
+        servingsNumber: 2,
+        products: [
+            "100g chudego serkaw kremowego",
+            "2 cebule dymki",
+            "4 bułki",
+            "1/3 ogórka",
+            "2 pomidory",
+            "0.5 czerwonej cebuli",
+            "Przyprawy: sól, pieprz, 2 łyżki koperku, 2 łyżki pietruszki"
+        ]
     }];
 };
