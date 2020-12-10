@@ -2,7 +2,9 @@ function getCards() {
     return [{
         imgSrc: "1.png",
         title: "Owsiany omlet z serka wiejskiego",
-        tutorial: "https://youtu.be/W0zEPbx1wvI?t=59",
+        tutorial: {
+            href: "https://youtu.be/W0zEPbx1wvI?t=59"
+        },
         kcal: 663,
         kind: 0,
         tags: [1],
@@ -18,7 +20,9 @@ function getCards() {
     }, {
         imgSrc: "2.png",
         title: "Ryżanka z jabłkiem",
-        tutorial: "https://youtu.be/fdtvX-W6Gj8?t=233",
+        tutorial: {
+            href: "https://youtu.be/fdtvX-W6Gj8?t=233"
+        },
         kcal: 443,
         kind: 0,
         tags: [0, 2],
@@ -34,7 +38,9 @@ function getCards() {
     }, {
         imgSrc: "3.png",
         title: "Ziemniaki z indykiem",
-        tutorial: "https://youtu.be/fdtvX-W6Gj8?t=768",
+        tutorial: {
+            href: "https://youtu.be/fdtvX-W6Gj8?t=768"
+        },
         kcal: 478,
         kind: 1,
         tags: [1],
@@ -52,7 +58,9 @@ function getCards() {
     }, {
         imgSrc: "4.jpg",
         title: "Makaron w mleczku kokosowym",
-        tutorial: "https://youtu.be/vJLa2ZG-NgI?t=226",
+        tutorial: {
+            href: "https://youtu.be/vJLa2ZG-NgI?t=226"
+        },
         kcal: 632,
         kind: 1,
         tags: [1],
@@ -86,7 +94,9 @@ function getCards() {
     }, {
         imgSrc: "6.jpg",
         title: "Warzywa z tofu",
-        tutorial: "https://youtu.be/fdtvX-W6Gj8?t=453",
+        tutorial: {
+            href: "https://youtu.be/fdtvX-W6Gj8?t=453"
+        },
         kcal: 389,
         kind: 1,
         tags: [1],
@@ -171,7 +181,9 @@ function getCards() {
     }, {
         imgSrc: "11.jpg",
         title: "Omlet z serka wiejskiego z brzoskwinią",
-        tutorial: "https://youtu.be/rlZxx8dyg0c?t=104",
+        tutorial: {
+            href: "https://youtu.be/rlZxx8dyg0c?t=104"
+        },
         kcal: 709,
         kind: 0,
         tags: [1, 2],
@@ -188,7 +200,9 @@ function getCards() {
     }, {
         imgSrc: "12.jpg",
         title: "Omlet z jogurtu naturalnego i mleczka kokosowego",
-        tutorial: "https://youtu.be/rlZxx8dyg0c?t=104",
+        tutorial: {
+            href: "https://youtu.be/rlZxx8dyg0c?t=104"
+        },
         kcal: 494,
         kind: 0,
         tags: [1, 2],
@@ -294,7 +308,9 @@ function getCards() {
     }, {
         imgSrc: "18.jpg",
         title: "Budyń figowy z chia i kokosem",
-        tutorial: "https://www.fitczarodziejka.pl/przepis/zdrowy-budyn-figowy-z-chia-i-kokosem",
+        tutorial: {
+            href: "https://www.fitczarodziejka.pl/przepis/zdrowy-budyn-figowy-z-chia-i-kokosem"
+        },
         kcal: 505,
         kind: 0,
         tags: [0, 2],
@@ -309,7 +325,9 @@ function getCards() {
     }, {
         imgSrc: "19.jpg",
         title: "Makaron ze szpinakiem",
-        tutorial: "https://www.fitczarodziejka.pl/przepis/dietetyczne-piersi-z-kurczaka-ze-szpinakiem",
+        tutorial: {
+            href: "https://www.fitczarodziejka.pl/przepis/dietetyczne-piersi-z-kurczaka-ze-szpinakiem"
+        },
         kcal: 476,
         kind: 1,
         tags: [1],
@@ -347,8 +365,10 @@ function getCards() {
         ]
     }, {
         imgSrc: "21.jpg",
-        title: "Ryż zapiekany z jabłkami",
-        tutorial: "https://www.makroprzepisy.pl/przepisy/mamagrande/ryz-zapiekany-z-jablkami",
+        title: "Ryż zapiekany z jabłkami - wersja dłuższa",
+        tutorial: {
+            href: "https://www.makroprzepisy.pl/przepisy/mamagrande/ryz-zapiekany-z-jablkami"
+        },
         kcal: 488,
         kind: 0,
         tags: [1, 2],
@@ -369,7 +389,9 @@ function getCards() {
     }, {
         imgSrc: "22.jpg",
         title: "Spód do pizzy kalafiorowej",
-        tutorial: "https://www.fitczarodziejka.pl/przepis/zdrowa-pizza-kalafiorowa",
+        tutorial: {
+            href: "https://www.fitczarodziejka.pl/przepis/zdrowa-pizza-kalafiorowa"
+        },
         kcal: 171,
         kind: 1,
         tags: [1],
@@ -385,7 +407,9 @@ function getCards() {
     }, {
         imgSrc: "23.jpg",
         title: "Krem cytrynowy",
-        tutorial: "https://www.fitczarodziejka.pl/przepis/zdrowy-krem-cytrynowy-bez-masla",
+        tutorial: {
+            href: "https://www.fitczarodziejka.pl/przepis/zdrowy-krem-cytrynowy-bez-masla"
+        },
         kcal: 133,
         kind: 0,
         tags: [3],
@@ -416,7 +440,9 @@ function getCards() {
     }, {
         imgSrc: "25.jpg",
         title: "Omlet z pomidorem i bazylią",
-        tutorial: "https://zdrowe-odzywianie-przepisy.blogspot.com/2014/07/omlet-z-pomidorem-i-bazylia.html",
+        tutorial: {
+            href: "https://zdrowe-odzywianie-przepisy.blogspot.com/2014/07/omlet-z-pomidorem-i-bazylia.html"
+        },
         kcal: 394,
         kind: 1,
         tags: [0, 1, 2],
@@ -430,7 +456,9 @@ function getCards() {
     }, {
         imgSrc: "26.jpg",
         title: "Sałatka z roszponki, mini mozzarelli i pomidorków",
-        tutorial: "https://www.makroprzepisy.pl/przepisy/mamagrande/salatka-z-roszponki-mini-mozzarelli-i-pomidorkow",
+        tutorial: {
+            href: "https://www.makroprzepisy.pl/przepisy/mamagrande/salatka-z-roszponki-mini-mozzarelli-i-pomidorkow"
+        },
         kcal: 258,
         kind: 1,
         tags: [0, 2],
@@ -449,7 +477,9 @@ function getCards() {
     }, {
         imgSrc: "27.jpg",
         title: "Bułki z pastą serowo-ziołową",
-        tutorial: "./src/img/tutorial/27.jpg",
+        tutorial: {
+            image: "27.jpg"
+        },
         kcal: 481,
         kind: 1,
         tags: [1, 2],
@@ -462,6 +492,88 @@ function getCards() {
             "2 pomidory",
             "0.5 czerwonej cebuli",
             "Przyprawy: sól, pieprz, 2 łyżki koperku, 2 łyżki pietruszki"
+        ]
+    }, {
+        imgSrc: "28.jpg",
+        title: "Ciasto z pomarańczami",
+        tutorial: {
+            image: "28.jpg"
+        },
+        kcal: 224,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 12,
+        products: [
+            "3 pomarańcze",
+            "6 jajek",
+            "1 czubata łyżeczka proszku do pieczenia",
+            "pół łyżeczki sody oczyszczonej",
+            "200g zmielonych migdałów",
+            "200g drobnego cukru do wypieków",
+            "50g kakao",
+            "cukier puder do posypania"
+        ]
+    }, {
+        imgSrc: "29.jpg",
+        title: "Bakłażanowe roladki",
+        tutorial: {
+            image: "29.jpg"
+        },
+        kcal: 564,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 2,
+        products: [
+            "1 duży bakłażan",
+            "2 łyżki oliwy",
+            "1 cebula",
+            "4 ząbki czosnku",
+            "pół czerwonej papryki",
+            "pół zielonej papryki",
+            "1 cukinia",
+            "2 łyżki natki pietruszki",
+            "6 pomidorów",
+            "200ml przecieru pomidorowego",
+            "4 łyżki bazylli",
+            "170g sera sypanego mozzarella",
+            "gałązki bazylli do przybrania",
+            "Przyprawy: cukier, sól, pieprz"
+        ]
+    }, {
+        imgSrc: "30.jpg",
+        title: "Ryż zapiekany z jabłkami - wersja szybka",
+        tutorial: {
+            image: "30.jpg"
+        },
+        kcal: 513,
+        kind: 0,
+        tags: [1, 2],
+        servingsNumber: 4,
+        products: [
+            "300g ryżu (3 torebki)",
+            "5 jabłek",
+            "400g jogurtu greckiego",
+            "torebka cukru waniliowego",
+            "20-25g cukru",
+            "około ćwierć paczki cynamonu łącznie na całośc (sypana przy każdej warstwie jabłka)"
+        ]
+    }, {
+        imgSrc: "31.jpg",
+        title: "Pierniczki z masłem orzechowym",
+        tutorial: {
+            href: "https://youtu.be/vSQluiXClMI?t=536"
+        },
+        kcal: 29,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 50,
+        products: [
+            "80g miodu (4 łyżki)",
+            "30g masła orzechowego (2 łyżki)",
+            "20g oleju kokosowego (1,5 łyżki)",
+            "240g mąki jaglanej",
+            "1,5 łyżeczki sody oczyszczonej",
+            "Przyprawy: 15g przyprawy korzennej (3 łyżeczki)"
         ]
     }];
 };

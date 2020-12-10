@@ -177,19 +177,27 @@
 
         let modalFooterAClass = "btn btn-block btn-" + color;
         let modalFooterATextContent = "Otwórz przepis";
+        let href = "";
         let isModalFooterAEnabled = !!card.tutorial && card.tutorial != "";
 
         if (!isModalFooterAEnabled) {
             modalFooterAClass += " disabled";
             modalFooterATextContent = "Brak przepisu";
+        } else {
+            if (card.tutorial.href) {
+                href = card.tutorial.href;
+            } else if (card.tutorial.image) {
+                href = "./src/img/tutorial/" + card.tutorial.image;
+            }
         }
 
         let modalFooterA = document.createElement("A");
-        modalFooterA.setAttribute("href", card.tutorial);
         modalFooterA.setAttribute("target", "_blank");
+        modalFooterA.setAttribute("href", href);
         modalFooterA.setAttribute("class", modalFooterAClass);
         modalFooterA.setAttribute("role", "button");
         modalFooterA.setAttribute("aria-pressed", "true");
+
         modalFooterA.textContent = modalFooterATextContent;
 
         modalHeaderDiv.appendChild(modalTitleH5);
