@@ -575,5 +575,25 @@ function getCards() {
             "1,5 łyżeczki sody oczyszczonej",
             "Przyprawy: 15g przyprawy korzennej (3 łyżeczki)"
         ]
+    }, {
+        imgSrc: "32.jpg",
+        title: "Zupa dyniowa z papryką i serową grzanką",
+        tutorial: {
+            href: "https://dietetyczne-przepisy.net/super-prosta-zupa-dyniowa-z-papryka-i-serowa-grzanka/"
+        },
+        kcal: 170,
+        kind: 1,
+        tags: [0, 1, 2],
+        servingsNumber: 4,
+        products: [
+            "500g dyni (może być Hokkaido lub piżmowa)",
+            "200g papryka czerwona",
+            "100g marchewka",
+            "5g kawałek imbiru",
+            "4 bułki",
+            "60g sera sypkiego mozzarella",
+            "ząbek czosnku",
+            "Przyprawy: sól, pieprz, przyprawa warzywna"
+        ]
     }];
 };
