@@ -595,5 +595,30 @@ function getCards() {
             "ząbek czosnku",
             "Przyprawy: sól, pieprz, przyprawa warzywna"
         ]
+    }, {
+        imgSrc: "33.jpg",
+        title: "Pomarańczowy sernik na zimno",
+        tutorial: {
+            href: "https://youtu.be/vSQluiXClMI?t=291"
+        },
+        kcal: 177,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 12,
+        products: [
+            "100g rodzynki",
+            "10g olej kokosowy (3/4 łyżki)",
+            "10g kakao",
+            "40g miodu (2 łyżki)",
+            "30g orzechów nerkowca",
+            "200g płatków owsianych błyskawicznych",
+            "750g chudego twarogu w kostce",
+            "200g jogurtu greckiego 10%",
+            "20g stewi",
+            "1 łyżeczka cynamonu",
+            "30g żelatyny uniwersalnej",
+            "3 pomarańcze",
+            "1 cytryna"
+        ]
     }];
 };
