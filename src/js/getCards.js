@@ -620,5 +620,31 @@ function getCards() {
             "3 pomarańcze",
             "1 cytryna"
         ]
+    }, {
+        imgSrc: "34.jpg",
+        title: "Boczniaki po kaszubsku",
+        tutorial: {
+            href: "https://www.kuchniajoanny.pl/na-zdrowie/vege/boczniaki-po-kaszubsku/"
+        },
+        kcal: 250,
+        kind: 1,
+        tags: [3],
+        servingsNumber: 6,
+        products: [
+            "500g boczniaków",
+            "2 cebule",
+            "6 suszonych śliwek",
+            "4 goździki",
+            "3 łyżki koncentratu pomidorowego",
+            "3 łyżki octu balsamicznego",
+            "2 łyżki sosu sojowego",
+            "1 łyżeczka gorczycy",
+            "1/4 łyżeczka cynamonu",
+            "1/2 łyżeczki majeranku",
+            "1 szklanka wody",
+            "4 łyżek oleju lnianego",
+            "2 ogórki kiszone",
+            "Przyprawy: 3 ziarna ziela angielskiego, 2 liście laurowe, 1 łyżeczka słodkiej papryki, sól, pieprz",
+        ]
     }];
 };
