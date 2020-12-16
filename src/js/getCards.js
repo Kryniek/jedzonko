@@ -646,5 +646,25 @@ function getCards() {
             "2 ogórki kiszone",
             "Przyprawy: 3 ziarna ziela angielskiego, 2 liście laurowe, 1 łyżeczka słodkiej papryki, sól, pieprz",
         ]
+    }, {
+        imgSrc: "35.jpg",
+        title: "Zapiekanka z makaronem, indykiem i dynią",
+        tutorial: {
+            href: "https://dietetyczne-przepisy.net/fit-zapiekanka-z-makaronem-kurczakiem-i-dynia/"
+        },
+        kcal: 436,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 3,
+        products: [
+            "500g mielonego mięsa z piersi kurczaka lub indyka",
+            "300g dyni",
+            "2 jajka",
+            "400ml mleka 2%",
+            "2 łyżki tartego sera",
+            "120g makaronu",
+            "4 ząbki czosnku",
+            "Przyprawy: pieprz, gałka muszkatołowa, bazylia, oregano, chili, sól"
+        ]
     }];
 };
