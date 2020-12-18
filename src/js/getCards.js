@@ -346,7 +346,9 @@ function getCards() {
     }, {
         imgSrc: "20.jpg",
         title: "Penne z cukinią",
-        tutorial: "",
+        tutorial: {
+            image: "20.jpg"
+        },
         kcal: 336,
         kind: 1,
         tags: [1],
@@ -572,7 +574,7 @@ function getCards() {
             "30g masła orzechowego (2 łyżki)",
             "20g oleju kokosowego (1,5 łyżki)",
             "240g mąki jaglanej",
-            "1,5 łyżeczki sody oczyszczonej",
+            "0,5 łyżeczki sody oczyszczonej",
             "Przyprawy: 15g przyprawy korzennej (3 łyżeczki)"
         ]
     }, {
