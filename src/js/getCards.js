@@ -493,7 +493,7 @@ function getCards() {
             "1/3 ogórka",
             "2 pomidory",
             "0.5 czerwonej cebuli",
-            "Przyprawy: sól, pieprz, 2 łyżki koperku, 2 łyżki pietruszki"
+            "Przyprawy: sól, pieprz, 2 łyżki koperku, 2 łyżki pietruszki, 1 łyżka estragonu"
         ]
     }, {
         imgSrc: "28.jpg",
