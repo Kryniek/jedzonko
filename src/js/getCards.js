@@ -574,8 +574,7 @@ function getCards() {
             "30g masła orzechowego (2 łyżki)",
             "20g oleju kokosowego (1,5 łyżki)",
             "240g mąki jaglanej",
-            "0,5 łyżeczki sody oczyszczonej",
-            "Przyprawy: 15g przyprawy korzennej (3 łyżeczki)"
+            "Przyprawy: 15g przyprawy korzennej (3 łyżeczki), 0,5 łyżeczki sody oczyszczonej"
         ]
     }, {
         imgSrc: "32.jpg",
@@ -657,16 +656,51 @@ function getCards() {
         kcal: 436,
         kind: 1,
         tags: [1],
-        servingsNumber: 3,
+        servingsNumber: 4,
         products: [
             "500g mielonego mięsa z piersi kurczaka lub indyka",
             "300g dyni",
             "2 jajka",
             "400ml mleka 2%",
             "2 łyżki tartego sera",
-            "120g makaronu",
+            "150g makaronu",
             "4 ząbki czosnku",
             "Przyprawy: pieprz, gałka muszkatołowa, bazylia, oregano, chili, sól"
+        ]
+    }, {
+        imgSrc: "36.jpg",
+        title: "Pieczona marchewka z ryżem",
+        tutorial: {
+            href: "http://befitbestrong.pl/pieczona-mloda-marchewka/?epik=dj0yJnU9LXNuNmVqZ09zUmI0SW5LVTB2eHdHaG1qc3ZydlVORm4mcD0wJm49LTlWNFRpZnRWcS1EWlZ6MHRYMzk2USZ0PUFBQUFBR0FZS2Nv"
+        },
+        kcal: 375,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 4,
+        products: [
+            "200g ryżu",
+            "sos chiński",
+            "3g oleju kokosowego",
+            "2 pęczki/1kg marchewki",
+            "Przyprawy: sól, pieprz"
+        ]
+    }, {
+        imgSrc: "37.jpg",
+        title: "Bananowy omlet z serka wiejskiego",
+        tutorial: {
+            href: "https://youtu.be/rlZxx8dyg0c?t=104"
+        },
+        kcal: 809,
+        kind: 0,
+        tags: [1, 2],
+        servingsNumber: 1,
+        products: [
+            "150g serka wiejskiego",
+            "2 jajka",
+            "2 łyżeczki oliwy z oliwek na patelnie",
+            "2 banany",
+            "60g mąki",
+            "cukier puder do ozdoby"
         ]
     }];
 };
