@@ -702,5 +702,50 @@ function getCards() {
             "60g mąki",
             "cukier puder do ozdoby"
         ]
+    }, {
+        imgSrc: "38.jpg",
+        title: "Sałatka z kabanosem",
+        tutorial: {
+            href: "https://aniagotuje.pl/przepis/salatka-z-kabanosem"
+        },
+        kcal: 439,
+        kind: 1,
+        tags: [1, 3],
+        servingsNumber: 2,
+        products: [
+            "90g kabanosów",
+            "80g makaronu świderki",
+            "pół papryki czerwonej",
+            "85g kukurydzy konserwowej",
+            "pół ogórka",
+            "100g sałaty lodowej lub rzymskiej",
+            "20g cebuli",
+            "180g jogurtu naturalnego",
+            "1 ząbek czosnku",
+            "1 ogórek kiszony",
+            "2 łyżki szczypiorku",
+            "Przyprawy: pieprz"
+        ]
+    }, {
+        imgSrc: "39.jpg",
+        title: "Małe pączki bananowe",
+        tutorial: {
+            href: "https://aniagotuje.pl/przepis/banany-w-ciescie"
+        },
+        kcal: 70,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 24,
+        products: [
+            "160g mąki tortowej",
+            "pół szklanki mleka",
+            "2 jajka (całe)",
+            "1 łyżka cukru pudru",
+            "1 łyżka proszku do pieczenia",
+            "1 łyżka spirytusu, wódki lub rumu",
+            "4 średnie dojrzałe banany",
+            "500 ml oleju rzepakowego na 18cm garnek, na większy 700ml",
+            "cukier puder do opruszenia pączków",
+        ]
     }];
 };
