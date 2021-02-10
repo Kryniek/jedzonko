@@ -747,5 +747,41 @@ function getCards() {
             "500 ml oleju rzepakowego na 18cm garnek, na większy 700ml",
             "cukier puder do opruszenia pączków",
         ]
+    }, {
+        imgSrc: "40.jpg",
+        title: "Szare kluski z okrasą",
+        tutorial: {
+            href: "https://aniagotuje.pl/przepis/szare-kluski"
+        },
+        kcal: 598,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 4,
+        products: [
+            "1,2kg ziemniaków",
+            "190g mąki jaglanej lub żytniej typ 720",
+            "2 łyżki skrobi ziemnaczanej",
+            "1 jajko",  
+            "pół łyżeczki soli",
+            "200g boczku",
+            "200g cebuli (1 duża)",
+        ]
+    }, {
+        imgSrc: "41.jpg",
+        title: "Szare kluski",
+        tutorial: {
+            href: "https://aniagotuje.pl/przepis/szare-kluski"
+        },
+        kcal: 425,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 4,
+        products: [
+            "1,2kg ziemniaków",
+            "190g mąki jaglanej lub żytniej typ 720",
+            "2 łyżki skrobi ziemnaczanej",
+            "1 jajko",  
+            "pół łyżeczki soli",
+        ]
     }];
 };
