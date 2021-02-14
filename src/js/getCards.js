@@ -504,7 +504,7 @@ function getCards() {
         kcal: 224,
         kind: 0,
         tags: [3],
-        servingsNumber: 12,
+        servingsNumber: 16,
         products: [
             "3 pomarańcze",
             "6 jajek",
@@ -605,7 +605,7 @@ function getCards() {
         kcal: 177,
         kind: 0,
         tags: [3],
-        servingsNumber: 12,
+        servingsNumber: 16,
         products: [
             "100g rodzynki",
             "10g olej kokosowy (3/4 łyżki)",
@@ -761,7 +761,7 @@ function getCards() {
             "1,2kg ziemniaków",
             "190g mąki jaglanej lub żytniej typ 720",
             "2 łyżki skrobi ziemnaczanej",
-            "1 jajko",  
+            "1 jajko",
             "pół łyżeczki soli",
             "200g boczku",
             "200g cebuli (1 duża)",
@@ -780,8 +780,28 @@ function getCards() {
             "1,2kg ziemniaków",
             "190g mąki jaglanej lub żytniej typ 720",
             "2 łyżki skrobi ziemnaczanej",
-            "1 jajko",  
+            "1 jajko",
             "pół łyżeczki soli",
+        ]
+    }, {
+        imgSrc: "42.jpg",
+        title: "Sernik Oreo z truskawkami",
+        tutorial: {
+            href: "https://www.youtube.com/watch?v=GRoK2uvGv6c"
+        },
+        kcal: 132,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 16,
+        products: [
+            "16 ciastek Oreo",
+            "400g truskawek",
+            "500g twarogu chudego",
+            "300g skyru naturalnego",
+            "330ml napoju proteinowego waniliowego (u mnie jugort skyr)",
+            "5 kropelek aromatu waniliowego",
+            "15g stewi",
+            "15g żelatyny"
         ]
     }];
 };
