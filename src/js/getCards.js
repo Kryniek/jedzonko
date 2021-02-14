@@ -803,5 +803,21 @@ function getCards() {
             "15g stewi",
             "15g żelatyny"
         ]
+    }, {
+        imgSrc: "43.jpg",
+        title: "Makaron z jagodami",
+        tutorial: {
+            href: "http://befitbestrong.pl/makaron-z-borowkami-i-skyrem-w-10-minut-3-skladniki-fit/"
+        },
+        kcal: 532,
+        kind: 0,
+        tags: [1],
+        servingsNumber: 2,
+        products: [
+            "150g jagód",
+            "200g makaronu",
+            "300g skyru waniliowego",
+            "100g truskawek",
+        ]
     }];
 };
