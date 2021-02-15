@@ -819,5 +819,21 @@ function getCards() {
             "300g skyru waniliowego",
             "100g truskawek",
         ]
+    }, {
+        imgSrc: "44.jpg",
+        title: "Naleśniki",
+        tutorial: {
+            href: "https://www.kwestiasmaku.com/kuchnia_polska/nalesniki/nalesniki.html"
+        },
+        kcal: 558,
+        kind: 0,
+        tags: [1,2],
+        servingsNumber: 2,
+        products: [
+            "160g mąki jaglana (1 szklanka)",
+            "2 jajka",
+            "250ml mleka (1 szklanka)",
+            "dżem (wliczone 100g w ilość kalorii)",
+        ]
     }];
 };
