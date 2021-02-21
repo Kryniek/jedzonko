@@ -833,7 +833,48 @@ function getCards() {
             "160g mąki jaglana (1 szklanka)",
             "2 jajka",
             "250ml mleka (1 szklanka)",
+            "3/4 szklanki wody",
+            "szczypta soli",
             "dżem (wliczone 100g w ilość kalorii)",
+        ]
+    }, {
+        imgSrc: "45.jpg",
+        title: "Mielone z ryżem i serem",
+        tutorial: {
+            href: "https://www.kwestiasmaku.com/przepis/danie-jednogarnkowe-z-mielonym-miesem-papryka-i-ryzem"
+        },
+        kcal: 390,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 4,
+        products: [
+            "1 cebula",
+            "2 ząbki czosnku",
+            "400g mielonego mięsa z indyka lub kurczaka",
+            "1 czerwona papryka",
+            "100g ryżu (1 woreczek)",
+            "400g (1 puszka) krojonych pomidorów",
+            "1 łyżka koncentratu pomidorowego",
+            "375ml bulionu",
+            "100g tartego sera",
+            "Opcjonalnie: natka pietruszki, papryczka chili",
+            "Przyprawy: po 1 łyżeczce suszonego oregano, kminu rzymskiego i słodkiej papryki, 1/3 łyżeczki ostrej papryki, 2/3 łyżeczki soli, 1/3 łyżeczki pieprzu",
+        ]
+    }, {
+        imgSrc: "46.jpg",
+        title: "Ciasto pastelowe z serka homogenizowanego",
+        tutorial: {
+            href: "https://smakinatalerzu.pl/2020/08/08/ciasto-pastelowe-z-serka-homogenizowanego/"
+        },
+        kcal: 154,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 16,
+        products: [
+            "200g herbatników",
+            "2 galaretki jednego koloru",
+            "2 galaretki drugiego koloru",
+            "800g serka homogenizowanego waniliowego",
         ]
     }];
 };
