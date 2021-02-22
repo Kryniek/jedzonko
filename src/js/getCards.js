@@ -827,7 +827,7 @@ function getCards() {
         },
         kcal: 558,
         kind: 0,
-        tags: [1,2],
+        tags: [1, 2],
         servingsNumber: 2,
         products: [
             "160g mąki jaglana (1 szklanka)",
@@ -875,6 +875,28 @@ function getCards() {
             "2 galaretki jednego koloru",
             "2 galaretki drugiego koloru",
             "800g serka homogenizowanego waniliowego",
+        ]
+    }, {
+        imgSrc: "47.jpg",
+        title: "Pęczak z batatami",
+        tutorial: {
+            href: "https://www.kwestiasmaku.com/przepis/peczak-smazony-z-batatami-papryka-jarmuzem-i-feta"
+        },
+        kcal: 485,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 2,
+        products: [
+            "1 opakowanie kaszy jęczmiennej pęczak (100g)",
+            "80g liści jarmużu",
+            "200g batatów",
+            "1 papryka",
+            "1 czerwona cebula",
+            "2 ząbki czosnku",
+            "80g sera feta",
+            "1 łyżka oliwy",
+            "Opcjonalnie: pół papryczki chili",
+            "Przyprawy po pół łyżeczki: kurkuma, słodka papryka, kmin rzymski",
         ]
     }];
 };
