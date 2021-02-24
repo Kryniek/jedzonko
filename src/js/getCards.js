@@ -898,5 +898,49 @@ function getCards() {
             "Opcjonalnie: pół papryczki chili",
             "Przyprawy po pół łyżeczki: kurkuma, słodka papryka, kmin rzymski",
         ]
+    }, {
+        imgSrc: "48.jpg",
+        title: "Koktajl buraczano-malinowy",
+        tutorial: {
+            image: "48.jpg"
+        },
+        kcal: 100,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 4,
+        products: [
+            "125g ugotowanego buraka",
+            "60g malin, świeżych lub mrożonych",
+            "250ml schłodzonego soku żurawinowego",
+            "200g schłodzonego jogurtu naturalnego",
+            "maliny do ozdoby koktajlu",
+        ]
+    }, {
+        imgSrc: "49.jpg",
+        title: "Włoska zupa minestrone",
+        tutorial: {
+            href: "https://www.winiary.pl/przepisy/zupa-minestrone/"
+        },
+        kcal: 237,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 5,
+        products: [
+            "pół cebuli",
+            "pół pora",
+            "1 seler naciowy",
+            "pół papryki czerwonej",
+            "3 ząbki czosnku",
+            "1 cukinia",
+            "2 garści fasolki szparagowej",
+            "2 pomidory malinowe",
+            "pół szklanki fasoli białej",
+            "150g makaronu",
+            "2 kostki bulionu warzywnego",
+            "2 litry wody do bulionu",
+            "bazylia do ozdoby",
+            "ser sypki do ozdoby",
+            "Przyprawy: 1 liść laurowy, pół łyżeczki tymianku, sól, pieprz",
+        ]
     }];
 };
