@@ -942,5 +942,42 @@ function getCards() {
             "ser sypki do ozdoby",
             "Przyprawy: 1 liść laurowy, pół łyżeczki tymianku, sól, pieprz",
         ]
+    }, {
+        imgSrc: "50.jpg",
+        title: "Komosa ryżowa z jakiem i warzywami",
+        tutorial: {
+            href: "https://cooktoria.com/quinoa-with-eggs/"
+        },
+        kcal: 422,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 4,
+        products: [
+            "2 papryki",
+            "2 marchewki",
+            "1 papryka ostra",
+            "4 łyżki sosu sojowego",
+            "6 jajek",
+            "2 paczki komosy ryżowej",
+            "2 garście szczypiorku",
+            "oliwa z oliwek do smażenia",
+        ]
+    }, {
+        imgSrc: "51.jpg",
+        title: "Tosty z serową jajecznicą",
+        tutorial: {
+            href: "https://cooktoria.com/scrambled-egg-toast/"
+        },
+        kcal: 460,
+        kind: 1,
+        tags: [0, 2],
+        servingsNumber: 2,
+        products: [
+            "4 kromki chleba",
+            "1 łyżka masła do smażenia",
+            "4 jajka",
+            "100g sera feta",
+            "pietruszka lub koper do przystrojenia",
+        ]
     }];
 };
