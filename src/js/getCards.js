@@ -979,5 +979,135 @@ function getCards() {
             "100g sera feta",
             "pietruszka lub koper do przystrojenia",
         ]
+    }, {
+        imgSrc: "52.jpg",
+        title: "Zupa warzywna a'la pomidorowa",
+        tutorial: {
+            image: "52.jpg"
+        },
+        kcal: 130,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 4,
+        products: [
+            "1 łyżka oleju słonecznikowego",
+            "1 mała cebula",
+            "1 mały por",
+            "1 duża marchewka",
+            "1 koper włoski",
+            "220g brukwi lub batatu",
+            "220g ziemniaków",
+            "kilka gałązek świeżego tymianku",
+            "pęczek natki pietruszki",
+            "600ml wywaru warzywnego",
+            "400g krojonych pomidorów z puszki",
+            "szczypiorek",
+            "Przyprawy: 1 liść laurowy, sól, pieprz",
+        ]
+    }, {
+        imgSrc: "53.jpg",
+        title: "Bagietka z pieczonymi warzywami",
+        tutorial: {
+            image: "53.jpg"
+        },
+        kcal: 590,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 2,
+        products: [
+            "2 czerwone papryki",
+            "4 małe bagietki",
+            "1 cebula",
+            "2 duże cukinie",
+            "2-3 ząbki czosnku",
+            "3 gałązki świeżego rozmarynu",
+            "1 łyżka oliwy z oliwek",
+            "100g sera feta",
+            "Przyprawy: sól, pieprz",
+        ]
+    }, {
+        imgSrc: "54.jpg",
+        title: "Domowy chlebek kukurydziany",
+        tutorial: {
+            image: "54.jpg"
+        },
+        kcal: 200,
+        kind: 1,
+        tags: [0, 2],
+        servingsNumber: 9,
+        products: [
+            "60g suszonych pomidorów",
+            "100g mąki pszennej",
+            "100g mąki kukurydzianej",
+            "1 łyżka proszku do pieczenia",
+            "1 duże jajko",
+            "200ml chudego mleka",
+            "3 łyżki oleju kukurydzianego",
+            "200g purree z kukurydzy z puszki",
+            "1 mała zielona papryka",
+            "Przyprawy: 1/4 łyżeczki soli, 1 łyżka sezamu",
+        ]
+    }, {
+        imgSrc: "55.jpg",
+        title: "Sałatka złocisto szmaragdowa",
+        tutorial: {
+            image: "55.jpg"
+        },
+        kcal: 125,
+        kind: 1,
+        tags: [2],
+        servingsNumber: 4,
+        products: [
+            "1 duże dojrzałe mango",
+            "65g liści młodego szpinaku",
+            "65g rukwi wodnej",
+            "65g rokietty lub sałaty frisee",
+            "12 listków świeżej bazylii",
+            "6 pędów świeżej kolendry",
+            "30g orzechów nerkowca lub orzeszków ziemnych",
+            "1 limonka",
+            "1 imbir",
+            "1 łyżka oleju sezamowego",
+            "1 łyżka oleju słonecznikowego",
+            "Przyprawy: sól, pieprz",
+        ]
+    }, {
+        imgSrc: "56.jpg",
+        title: "Pieczone warzywa zimowe",
+        tutorial: {
+            image: "56.jpg"
+        },
+        kcal: 205,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 6,
+        products: [
+            "2 cebule",
+            "3 marchewki",
+            "3 łodygi selera naciowego",
+            "400g brukwi lub batatów",
+            "1 litr gorącego wywaru warzywnego",
+            "2 ząbki czosnku",
+            "3 pory",
+            "150g pęczaku",
+            "Przyprawy: 2 łyżeczki suszonej szałwi, sól, pieprz, 3 łyżki listków natki pietruszki",
+        ]
+    }, {
+        imgSrc: "57.jpg",
+        title: "Smoothie z selera naciowego i jabłka",
+        tutorial: {
+            href: "https://www.gotujzdrowokolorowo.pl/2015/10/odchudzajace-smoothie-z-selera.html"
+        },
+        kcal: 92,
+        kind: 1,
+        tags: [3],
+        servingsNumber: 2,
+        products: [
+            "2 jabłka",
+            "4 łodygi selera naciowego z czuprynką",
+            "kilka kropel soku z cytryny",
+            "1 łyżeczka miodu",
+            "2 szklanki wody",
+        ]
     }];
 };
