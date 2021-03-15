@@ -830,7 +830,7 @@ function getCards() {
         tags: [1, 2],
         servingsNumber: 2,
         products: [
-            "160g mąki jaglana (1 szklanka)",
+            "160g mąki tortowej (1 szklanka)",
             "2 jajka",
             "250ml mleka (1 szklanka)",
             "3/4 szklanki wody",
@@ -1108,6 +1108,61 @@ function getCards() {
             "kilka kropel soku z cytryny",
             "1 łyżeczka miodu",
             "2 szklanki wody",
+        ]
+    }, {
+        imgSrc: "58.jpg",
+        title: "Sałatka z boczkiem",
+        tutorial: {
+            href: "https://aniagotuje.pl/przepis/salatka-z-boczkiem"
+        },
+        kcal: 305,
+        kind: 1,
+        tags: [2],
+        servingsNumber: 3,
+        products: [
+            "1 opakowanie boczku wędzonego",
+            "60g mieszanki sałat",
+            "200g pomidorków koktajlowych",
+            "pół cebuli",
+            "3 jajka",
+            "3 łyżki oliwy",
+            "3 łyżki soku z cytryny (pół cytryny)",
+            "1/4 łyżeczki pieprzu",
+            "1 łyżeczka musztardy",
+        ]
+    }, {
+        imgSrc: "59.jpg",
+        title: "Kopytka na słodko",
+        tutorial: {
+            href: "https://aniagotuje.pl/przepis/tradycyjne-kopytka-z-bulka-tarta"
+        },
+        kcal: 567,
+        kind: 0,
+        tags: [1],
+        servingsNumber: 4,
+        products: [
+            "1kg ziemniaków",
+            "330g łyżeczki mąki pszennej tortowej",
+            "1 jajko",
+            "płaska łyżeczka soli",
+            "200g jogurtu naturalnego",
+            "1 łyżeczka stewii do smaku",
+        ]
+    }, {
+        imgSrc: "60.jpg",
+        title: "Kopytka na wytrawnie",
+        tutorial: {
+            href: "https://aniagotuje.pl/przepis/tradycyjne-kopytka-z-bulka-tarta"
+        },
+        kcal: 433,
+        kind: 1,
+        tags: [1],
+        servingsNumber: 4,
+        products: [
+            "1kg ziemniaków",
+            "330g łyżeczki mąki pszennej tortowej",
+            "1 jajko",
+            "płaska łyżeczka soli",
         ]
     }];
 };
