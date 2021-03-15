@@ -1142,7 +1142,7 @@ function getCards() {
         servingsNumber: 4,
         products: [
             "1kg ziemniaków",
-            "230g łyżeczki mąki pszennej tortowej",
+            "230g mąki pszennej tortowej",
             "1 jajko",
             "płaska łyżeczka soli",
             "200g jogurtu naturalnego",
@@ -1160,7 +1160,7 @@ function getCards() {
         servingsNumber: 4,
         products: [
             "1kg ziemniaków",
-            "230g łyżeczki mąki pszennej tortowej",
+            "230g mąki pszennej tortowej",
             "1 jajko",
             "płaska łyżeczka soli",
         ]
