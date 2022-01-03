@@ -1164,5 +1164,50 @@ function getCards() {
             "1 jajko",
             "płaska łyżeczka soli",
         ]
+    }, {
+        imgSrc: "61.jpg",
+        title: "Makowiec z kaszą manną i ciasteczkami korzennymi",
+        tutorial: {
+            href: "http://veganbanda.pl/recipe/pieciominutowe-ciasto-swiateczne-bez-pieczenia-i-blendowania/"
+        },
+        kcal: 235,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 30,
+        products: [
+            "Około 400g ciastek korzennych",
+            "1 litr mleka sojowego",
+            "200g kaszy manny (1 filiżanka)",
+            "400g maku niebieskiego (2 filiżanki)",
+            "105g etyrolu (7 łyżek)",
+            "100g gorzkiej czekolady",
+            "200g orzechów włoskich",
+        ]
+    }, {
+        imgSrc: "62.jpg",
+        title: "Piernikowo-czekoladowe ciasto z konfiturą pomarańczową",
+        tutorial: {
+            href: "https://www.kuchniajoanny.pl/desery/ciasta-desery/czekoladowe-ciasto-z-konfitura/"
+        },
+        kcal: 233,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 18,
+        products: [
+            "150g gorzkiej czekolady",
+            "140g cukru",
+            "40 g masła",
+            "80 g oleju rzepakowego",
+            "3 jajka",
+            "130 g mąki",
+            "5g proszku do pieczenia (1 płaska łyżeczka)",
+            "10g przyprawy do piernika (2 pełne łyżeczki)",
+            "1 mandarynka",
+            "10g żurawiny",
+            "5g posypki",
+            "240g konfitury pomarańczowej",
+            "100g czekolady mlecznej",
+            "45g mleka (3 łyżki)",
+        ]
     }];
 };
