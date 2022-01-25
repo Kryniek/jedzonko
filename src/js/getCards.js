@@ -866,7 +866,7 @@ function getCards() {
         tutorial: {
             href: "https://smakinatalerzu.pl/2020/08/08/ciasto-pastelowe-z-serka-homogenizowanego/"
         },
-        kcal: 154,
+        kcal: 117,
         kind: 0,
         tags: [3],
         servingsNumber: 16,
