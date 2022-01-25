@@ -869,7 +869,7 @@ function getCards() {
         kcal: 117,
         kind: 0,
         tags: [3],
-        servingsNumber: 16,
+        servingsNumber: 21,
         products: [
             "200g herbatników",
             "2 galaretki jednego koloru",
