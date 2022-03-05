@@ -172,6 +172,13 @@
             modalListGroupUl.appendChild(listElementLi);
         });
 
+        let additionalInformationText
+        if (card.tutorial.additionalInformation) {
+            additionalInformationText = document.createElement("P");
+            additionalInformationText.setAttribute("class", "text-center font-weight-bold");
+            additionalInformationText.textContent = card.tutorial.additionalInformation;
+        }
+
         let modalFooterDiv = document.createElement("DIV");
         modalFooterDiv.setAttribute("class", "modal-footer");
 
@@ -205,6 +212,9 @@
         modalHeaderButton.appendChild(modalHeaderButtonSpan);
         modalContentDiv.appendChild(modalHeaderDiv);
         modalBodyDiv.appendChild(modalListGroupUl);
+        if(additionalInformationText){
+            modalBodyDiv.appendChild(additionalInformationText);
+        }
         modalContentDiv.appendChild(modalBodyDiv);
         modalFooterDiv.appendChild(modalFooterA);
         modalContentDiv.appendChild(modalFooterDiv);

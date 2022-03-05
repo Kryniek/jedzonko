@@ -1209,5 +1209,50 @@ function getCards() {
             "100g czekolady mlecznej",
             "45g mleka (3 łyżki)",
         ]
+    }, {
+        imgSrc: "63.jpg",
+        title: "Paleo - ciasto kokosowo-bananowe z makiem",
+        tutorial: {
+            href: "http://healthypoint.pl/paleo-ciasto-kokosowo-bananowe-makiem/"
+        },
+        kcal: 130,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 30,
+        products: [
+            "70g mąki kokosowej",
+            "150g oleju kokosowego",
+            "3 średniej wielkości, bardzo dojrzałe banany",
+            "4 jajka",
+            "15g miodu (1 łyżka)",
+            "50g maku",
+            "5g sody oczyszczonej (1 płaska łyżeczka)",
+            "200g pasty kokosowej",
+            "160g oleju kokosowego",
+            "suszone kwiaty do ustrojenia",
+        ]
+    }, {
+        imgSrc: "64.jpg",
+        title: "Ciasto dyniowe",
+        tutorial: {
+            href: "https://www.mniam-mniam.com.pl/2016/10/ciasto-dyniowe.html",
+            additionalInformation: "Polewe wziąć stąd: https://kocielakocie.pl/fit-ciasto-marchewkowe-bez-cukru/"
+        },
+        kcal: 163,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 20,
+        products: [
+            "250g puree z dyni (3/4 szklanki)",
+            "300g mąki pszennej (1,5 szklanki)",
+            "10g sody oczyszczonej (2 łyżeczki)",
+            "200g masła do pieczenia",
+            "90g etyrolu",
+            "3 jajka",
+            "1 serek naturalny (np. Bieluch)",
+            "15g miodu (1 łyżka)",
+            "orzechy włoskie do dekoracji",
+            "wiórki kokosowe do dekoracji",
+        ]
     }];
 };
