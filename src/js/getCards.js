@@ -1254,5 +1254,26 @@ function getCards() {
             "orzechy włoskie do dekoracji",
             "wiórki kokosowe do dekoracji",
         ]
+    }, {
+        imgSrc: "65.jpg",
+        title: "Sernik z mlekiem w proszku",
+        tutorial: {
+            href: "https://aniagotuje.pl/przepis/sernik-z-mlekiem-w-proszku"
+        },
+        kcal: 109,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 30,
+        products: [
+            "1kg twaróg sernikowy z kubełka President",
+            "160g mleka w proszku",
+            "100ml śmietanki kremówki 30 %",
+            "6 jajek",
+            "150g etyrolu",
+            "70g budyniu waniliowego (2x 35g)",
+            "100g masła",
+            "cukier puder do przystrojenia",
+            "owoce do przystrojenia",
+        ]
     }];
 };
