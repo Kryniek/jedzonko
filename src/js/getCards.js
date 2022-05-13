@@ -801,7 +801,8 @@ function getCards() {
             "330ml napoju proteinowego waniliowego (u mnie jugort skyr)",
             "5 kropelek aromatu waniliowego",
             "15g stewi",
-            "15g żelatyny"
+            "15g żelatyny",
+            "300g biszkoptów na spód"
         ]
     }, {
         imgSrc: "43.jpg",
