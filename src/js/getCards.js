@@ -1276,5 +1276,45 @@ function getCards() {
             "cukier puder do przystrojenia",
             "owoce do przystrojenia",
         ]
+    }, {
+        imgSrc: "66.jpg",
+        title: "Tarta z rabarbarem i bezową pianką",
+        tutorial: {
+            href: "https://zdrowejestczadowe.pl/fit-tarta-na-kruchym-spodzie-z-rabarbarem-i-bezowa-pianka/"
+        },
+        kcal: 295,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 12,
+        products: [
+            "około 400g mąki orkiszowej typu 680/750 (2 szklanki)",
+            "około 40g mąki ziemniaczanej (4 czubate łyżki)",
+            "200g prawdziwego masła (zimnego)",
+            "175g ksylitolu",
+            "4 jajka",
+            "25g jogurtu naturalnego (1 łyżka)",
+            "500g rabarbaru",
+            "1 budyń waniliowy bez cukru",
+        ]
+    }, {
+        imgSrc: "67.jpg",
+        title: "Qurrito",
+        tutorial: {
+            href: "https://www.facebook.com/reel/1519880098465553?fs=e&s=cl"
+        },
+        kcal: 533,
+        kind: 1,
+        tags: [2],
+        servingsNumber: 1,
+        products: [
+            "10g oliwy",
+            "100g kurczaka",
+            "1x tortilla",
+            "50g sera sypkiego cheddar",
+            "30g sosu BBQ",
+            "10g papryki wędzonej (1 łyżeczka)",
+            "3g papryki ostrej (1/3 łyżeczki)",
+            "sól",
+        ]
     }];
 };
