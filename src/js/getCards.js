@@ -1316,5 +1316,54 @@ function getCards() {
             "3g papryki ostrej (1/3 łyżeczki)",
             "sól",
         ]
+    }, {
+        imgSrc: "68.png",
+        title: "Kruche maślane ciasto z truskawkami i mascarpone",
+        tutorial: {
+            href: "https://gotujzcukiereczkiem.pl/ciastka/kruche-maslane-ciasto-z-truskawkami-i-mascarpone/"
+        },
+        kcal: 184,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 30,
+        products: [
+            "200g masła",
+            "95g cukru pudru",
+            "270g mąki",
+            "1 łyżeczka proszku do pieczenia",
+            "1 żółtko",
+            "500g serka mascarpone",
+            "2 łyżki soku z cytryny",
+            "16g cukru waniliowego",
+            "450g truskawek",
+            "1/3 granata",
+            "50g białej czekolady",
+            "1 łyżka mleka",
+            "2 łyżki płatków migdałowych"
+        ]
+    }, {
+        imgSrc: "69.jpg",
+        title: "Tarta kokosowa z chia",
+        tutorial: {
+            href: "https://malacukierenka.pl/tarta-kokosowa-chia-bez-cukru-bez-glutenu-weganska.html"
+        },
+        kcal: 432,
+        kind: 0,
+        tags: [3],
+        servingsNumber: 12,
+        products: [
+            "180g wiórków kokosowych",
+			"50g mąki kokosowej",
+			"153g oleju kokosowego",
+			"9 łyżek syropu z agawy",
+			"1 łyżeczka startej skórki z cytryny",
+			"2 puszki mleczka kokosowego (puszka ma 400ml)",
+			"szczypta soli",
+			"50g mąki kukurydzianej",
+			"4 łyżki nasion chia (32g)",
+			"kropla zapachu waniliowego",
+			"płatki kokosowe lub wiórki kokosowe do posypania na wierzch",
+			"400g różnych owoców na wierzh (truskawki, maliny, jagody, porzeczki)"
+        ]
     }];
 };
