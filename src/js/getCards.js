@@ -565,16 +565,17 @@ function getCards() {
         tutorial: {
             href: "https://youtu.be/vSQluiXClMI?t=536"
         },
-        kcal: 29,
+        kcal: 34,
         kind: 0,
         tags: [3],
-        servingsNumber: 50,
+        servingsNumber: 45,
         products: [
-            "80g miodu (4 łyżki)",
-            "30g masła orzechowego (2 łyżki)",
-            "20g oleju kokosowego (1,5 łyżki)",
+            "90g miodu",
+            "30g masła orzechowego",
+            "30g oleju kokosowego",
             "240g mąki jaglanej",
-            "Przyprawy: 15g przyprawy korzennej (3 łyżeczki), 0,5 łyżeczki sody oczyszczonej"
+            "70ml wody",
+            "Przyprawy: 10g przyprawy korzennej, 0,5 łyżeczki sody oczyszczonej"
         ]
     }, {
         imgSrc: "32.jpg",
