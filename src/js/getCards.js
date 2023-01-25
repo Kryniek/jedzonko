@@ -1366,5 +1366,24 @@ function getCards() {
 			"płatki kokosowe lub wiórki kokosowe do posypania na wierzch",
 			"400g różnych owoców na wierzh (truskawki, maliny, jagody, porzeczki)"
         ]
-    }];
+    }, {
+             imgSrc: "70.jpg",
+             title: "Biały blok czekoladowy",
+             tutorial: {
+                 href: "https://www.facebook.com/100058100770469/posts/pfbid02n6Y3GTw2MawhtdDsmgCFV5evEJsuTeDWJSaKRvRZ8uCGPBdyu592MPAU7Z2xv4aDl/?sfnsn=mo"
+             },
+             kcal: 296,
+             kind: 0,
+             tags: [3],
+             servingsNumber: 25,
+             products: [
+                 "180g orzechów laskowych",
+                 "100g białej czekolady",
+                 "250ml mleka",
+                 "500g mleka w proszku",
+                 "300g masła",
+                 "200g herbatników",
+                 "skórka z 1 pomarańczy"
+             ]
+         }];
 };
